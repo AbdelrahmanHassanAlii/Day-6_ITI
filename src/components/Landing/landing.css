@@ -1,0 +1,16 @@
+.landing {
+  background-image: url(./landing.jpg);
+  background-size: cover;
+  height: calc(100vh - 56px);
+  position: relative;
+  color: black;
+  font-weight: bold;
+}
+
+.content {
+  position: absolute;
+  width: fit-content !important;
+  left: 50%;
+  top: 30%;
+  transform: translate(-50%, -50%);
+}
