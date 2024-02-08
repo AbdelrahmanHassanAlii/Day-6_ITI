@@ -24,7 +24,7 @@ To install and run this project, follow these steps:
 4. Start the application.
 
 ## Testing
-You can run the Live Preview server with the following Link https://abdo100300500.github.io/Day-6_ITI/
+You can run the Live Preview server with the following Link https://AbdelrahmanHassanAlii.github.io/Day-6_ITI/
 
 ## Usage
 Here's how you can use this project:
@@ -45,4 +45,4 @@ We welcome contributions! If you'd like to contribute to this project, please fo
 ## About-me
 - My Name is Abdelrahman Hassan and I'm Frontend Developer
 - Linkedin: https://linkedin.com/in/abdelrahman-hassan-b09b80250
-- Github: https://github.com/abdo100300500
+- Github: https://github.com/AbdelrahmanHassanAlii
